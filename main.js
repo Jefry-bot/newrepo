@@ -6,7 +6,7 @@ app.use(express.json())
 
 app.get("/", (req, res) => {
   res.json({
-    name: "Jefry"
+    name: "Jefry Zarate Ruiz"
   })
 })
 
