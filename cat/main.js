@@ -11,7 +11,7 @@ app.get("/", async (req, res) => {
   res.json({
     users,
     pet: {
-      name: "Nieve"
+      name: "Izi"
     }
   })
 })
